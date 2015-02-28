@@ -60,9 +60,10 @@ div {
 }
 .top-navigation > .content {
 	padding: 0px 15px;
-	height: 70px:
+	height: 70px;
 	margin: 0 auto;
 }
 .top-navigation > .links {
 	float: right;
+	display: inline-block;
 }
