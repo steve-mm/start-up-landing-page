@@ -67,3 +67,6 @@ div {
 	float: right;
 	display: inline-block;
 }
+.top-navigation .links li {
+    display: inline-block;
+}
