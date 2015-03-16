@@ -63,6 +63,6 @@ div {
 	height: 70px;
 	margin: 0 auto;
 }
-.top-navigation > .links li {
+.top-navigation > ul.links li {
     float: right;
 }
