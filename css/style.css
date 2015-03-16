@@ -63,10 +63,6 @@ div {
 	height: 70px;
 	margin: 0 auto;
 }
-.top-navigation > .links {
-	float: right;
-	display: inline-block;
-}
-.top-navigation .links li {
-    display: inline-block;
+.top-navigation > .links li {
+    float: right;
 }
