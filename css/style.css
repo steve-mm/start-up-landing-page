@@ -99,7 +99,10 @@ div {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 45.938rem;
+    height: 735px;
+}
+.introduction .content {
+	color: #FFFFFF;
 }
 .big-button {
     text-shadow: none;
