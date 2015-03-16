@@ -63,4 +63,13 @@ div {
 	height: 70px;
 	margin: 0 auto;
 }
-ul.links li { float: right;}
+ul.links li { 
+	float: right;
+	margin-top: 10px;
+}
+.top navigation {
+	font-family: 'Roboto', sans-serif; 
+	font-size: 16px; 
+	color: #838994; 
+	letter-spacing: 0.03em;
+}
