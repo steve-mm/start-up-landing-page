@@ -53,12 +53,17 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* End Reset */
 
+/* Start Of Custom Styles */
 body {
 	background-color: LightGray;
 }
 div {
 	border: 1px solid Chocolate;
+}
+.content {
+	padding: 0 15px;
 }
 
 /* Navigation Section */
@@ -66,7 +71,7 @@ div {
 	background-color: #fff;
 }
 .top-navigation > .content {
-	padding: 0px 15px;
+	width: 970px;
 	height: 70px;
 	margin: 0 auto;
 }
