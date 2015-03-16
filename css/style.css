@@ -82,7 +82,7 @@ div {
 	-webkit-font-smoothing: antialiased;
 	margin-top: 20px;
 }
-.top navigation .links {
+.top navigation .links li {
 	display: inline-block;
 	margin-left: 25px;	
 }
