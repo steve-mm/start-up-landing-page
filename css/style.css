@@ -99,12 +99,15 @@ div {
     cursor: pointer;
     color: #333333;
 }
+
+/* Introduction Section */
 .introduction {
     background-image: url('../images/first-background.jpg');
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 735px;
+    height: 45.938px;
+    overflow: auto;
 }
 .introduction .content {
 	color: #FFFFFF;
