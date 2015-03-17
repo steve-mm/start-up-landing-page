@@ -56,12 +56,6 @@ table {
 /* End Reset */
 
 /* Start Of Custom Styles */
-body {
-	background-color: LightGray;
-}
-div {
-	border: 1px solid Chocolate;
-}
 .content {
 	padding: 0 15px;
 }
