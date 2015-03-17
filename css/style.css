@@ -83,7 +83,7 @@ table {
 }
 .top-navigation .links li {
 	display: inline-block;
-	margin-left: 25px;	
+	margin-left: 35px;	
 }
 .top-navigation .links > .active {
     color: #4c5058;
@@ -102,9 +102,6 @@ table {
     background-size: cover;
     height: 45.938rem;
     overflow: auto;
-}
-.introduction .content {
-	color: white;
 }
 .introduction h1,
 .introduction h3 {
