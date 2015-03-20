@@ -57,7 +57,9 @@ table {
 
 /* Start Of Custom Styles */
 .content {
-	padding: 0 15px;
+	padding: 0 1rem;
+	margin: 0 auto;
+	min-width: 37.5rem;
 }
 
 /* Navigation Section */
